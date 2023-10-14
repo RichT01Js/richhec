@@ -1,0 +1,41 @@
+[
+	{
+		"isim": "Başlangıç Kasası",
+    "açıklama": "Başlangıç olarak ideal olan bir kasa.",
+		"fiyat": "50",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Exterme Kasası",
+    "açıklama": "Orta düzeyde olan bir kasa.",
+		"fiyat": "75",
+    "kasaid": "2"
+	},
+	{
+		"isim": "VIP Kasası",
+    "açıklama": "Yüksek seviye bir kasa.",
+		"fiyat": "80",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Elit Kasası",
+    "açıklama": "ELİT seviye bir kasa.",
+		"fiyat": "90",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Efsanevi Kasası",
+    "açıklama": "EFSANEVİ bir kasa dikkatli açılması önerilir.",
+		"fiyat": "95",
+    "kasaid": "5"
+	},
+  	{
+		"isim": "PLUS Kasası",
+    "açıklama": "Özel Kasa",
+		"fiyat": "100",
+    "kasaid": "6"
+	}
+
+  
+
+]
